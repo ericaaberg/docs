@@ -7,7 +7,7 @@
     "light": "#d49bff",
     "dark": "#d49bff"
   },
-  "favicon": "/favicon.svg",
+  "favicon": "/Hangful_favicon.png",
   "navigation": {
     "tabs": [
       {
@@ -85,13 +85,13 @@
   },
   "logo": {
     "light": "/logo/Hangful.svg",
-    "dark": "/logo/Hangful.svg"
+    "dark": "/logo/Hangful_white.svg"
   },
   "navbar": {
     "links": [
       {
         "label": "Support",
-        "href": "mailto:hi@mintlify.com"
+        "href": "mailto:hello@hangful.com"
       }
     ],
     "primary": {
