@@ -3,9 +3,9 @@
   "theme": "maple",
   "name": "Hangful Docs",
   "colors": {
-    "primary": "#16A34A",
-    "light": "#07C983",
-    "dark": "#15803D"
+    "primary": "#d49bff",
+    "light": "#d49bff",
+    "dark": "#d49bff"
   },
   "favicon": "/favicon.svg",
   "navigation": {
